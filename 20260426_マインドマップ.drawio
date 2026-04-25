@@ -1,0 +1,27 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="XnUIVkhhB26h9e5avwpx">
+    <mxGraphModel dx="339" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aZYeV2od_5-UM35LYT9_-1" parent="1" style="whiteSpace=wrap;html=1;" value="DTENに対してFWはどういう価値を出すべき？" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="aZYeV2od_5-UM35LYT9_-2" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aZYeV2od_5-UM35LYT9_-3" edge="1" parent="1" source="aZYeV2od_5-UM35LYT9_-1" style="orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;shape=filledEdge;endArrow=none;endFill=0;" target="aZYeV2od_5-UM35LYT9_-2" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <mxPoint x="300" y="290" as="sourcePoint" />
+            <mxPoint x="270" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aZYeV2od_5-UM35LYT9_-4" connectable="0" parent="aZYeV2od_5-UM35LYT9_-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Text" vertex="1">
+          <mxGeometry relative="1" x="0.3214" y="5" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
