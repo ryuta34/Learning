@@ -436,7 +436,7 @@
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-316" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-307" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-314" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2hM3yRzKbPrXqv-h3VKx-318" parent="1" style="whiteSpace=wrap;html=1;" value="プロダクト思想" vertex="1">
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-318" parent="1" style="whiteSpace=wrap;html=1;" value="ビジネス、プロダクト思想" vertex="1">
           <mxGeometry height="60" width="120" x="1360" y="-1180" as="geometry" />
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-323" parent="1" style="whiteSpace=wrap;html=1;" value="解こうとしている課題" vertex="1">
