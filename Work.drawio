@@ -205,7 +205,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ExWYhVR-ubTO9MCSDwoZ" name="FW PJM skills">
-    <mxGraphModel dx="1226" dy="2764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="584" dy="2154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -491,7 +491,7 @@
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-368" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-346" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-367" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2hM3yRzKbPrXqv-h3VKx-346" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="大事にしていることは何か" vertex="1">
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-346" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="大事にしていることは何か&lt;br&gt;&lt;div&gt;（1つでもOK）&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1066" y="800" as="geometry" />
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-363" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-357" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-362" value="">
@@ -509,11 +509,14 @@
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-364" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="1 on 1" vertex="1">
           <mxGeometry height="60" width="120" x="1450" y="770" as="geometry" />
         </mxCell>
-        <mxCell id="2hM3yRzKbPrXqv-h3VKx-367" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="" vertex="1">
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-372" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-346" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="2hM3yRzKbPrXqv-h3VKx-371" value="－">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-367" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="アウトプット" vertex="1">
           <mxGeometry height="60" width="120" x="1236" y="800" as="geometry" />
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-369" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="大事にしていることってどう把握すれば良い？" vertex="1">
-          <mxGeometry height="30" width="150" x="1070" y="850" as="geometry" />
+          <mxGeometry height="30" width="150" x="1070" y="860" as="geometry" />
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-334" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-269" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-333" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -541,6 +544,21 @@
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-339" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="プライベート" vertex="1">
           <mxGeometry height="60" width="120" x="877" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-374" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-371" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-373" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-376" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-371" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-375" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-371" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="コミュニケーション" vertex="1">
+          <mxGeometry height="60" width="120" x="1236" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-373" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="発言" vertex="1">
+          <mxGeometry height="60" width="120" x="1450" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-375" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Slack" vertex="1">
+          <mxGeometry height="60" width="120" x="1450" y="980" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
