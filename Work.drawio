@@ -205,7 +205,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ExWYhVR-ubTO9MCSDwoZ" name="FW PJM skills">
-    <mxGraphModel dx="473" dy="723" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="631" dy="831" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,8 +248,10 @@
             <mxPoint x="733" y="-113" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2hM3yRzKbPrXqv-h3VKx-242" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-230" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-241" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-242" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-230" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="2hM3yRzKbPrXqv-h3VKx-241" value="">
+          <mxGeometry relative="1" x="0.1458" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-230" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="顧客に価値を届けられる" vertex="1">
           <mxGeometry height="60" width="120" x="524" y="97" as="geometry" />
@@ -257,8 +259,8 @@
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-234" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="チームメンバーに良い影響を与えられる" vertex="1">
           <mxGeometry height="60" width="120" x="521" y="208" as="geometry" />
         </mxCell>
-        <mxCell id="2hM3yRzKbPrXqv-h3VKx-236" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="128" x="896" y="139" as="geometry" />
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-236" parent="1" style="whiteSpace=wrap;html=1;" value="チームを立ちあがられる" vertex="1">
+          <mxGeometry height="60" width="128" x="900" y="123" as="geometry" />
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-232" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="FWのビジネスを成長に導ける" vertex="1">
           <mxGeometry height="60" width="120" x="521" y="-142" as="geometry" />
@@ -271,6 +273,9 @@
             <mxPoint x="860" y="78" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-255" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-241" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-254" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-241" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="プロジェクトをリードできる" vertex="1">
           <mxGeometry height="60" width="120" x="722" y="45" as="geometry" />
         </mxCell>
@@ -282,6 +287,9 @@
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-252" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="人としてどうありたいか" vertex="1">
           <mxGeometry height="60" width="120" x="84" y="31" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-254" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="722" y="225" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
