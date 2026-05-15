@@ -205,10 +205,84 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ExWYhVR-ubTO9MCSDwoZ" name="FW PJM skills">
-    <mxGraphModel dx="613" dy="582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="473" dy="723" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-231" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-225" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-230" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-233" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-225" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-232" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-235" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-225" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-234" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-253" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-252" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="2hM3yRzKbPrXqv-h3VKx-225" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209" y="149" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-225" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FWのPJMとしてどうありたいか" vertex="1">
+          <mxGeometry height="60" width="120" x="338" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-245" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-226" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="-130.74193548387098" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-226" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="技術的なあるべき姿を描ける" vertex="1">
+          <mxGeometry height="60" width="120" x="722" y="-37" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-249" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-228" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-248" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-251" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-228" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-250" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-228" parent="1" style="whiteSpace=wrap;html=1;" value="人を巻きこめる" vertex="1">
+          <mxGeometry height="60" width="128" x="900" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-239" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-230" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="2hM3yRzKbPrXqv-h3VKx-226" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="733" y="-113" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-242" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-230" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-241" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-230" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="顧客に価値を届けられる" vertex="1">
+          <mxGeometry height="60" width="120" x="524" y="97" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-234" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="チームメンバーに良い影響を与えられる" vertex="1">
+          <mxGeometry height="60" width="120" x="521" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-236" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="128" x="896" y="139" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-232" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="FWのビジネスを成長に導ける" vertex="1">
+          <mxGeometry height="60" width="120" x="521" y="-142" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-243" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-241" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2hM3yRzKbPrXqv-h3VKx-228" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-246" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-241" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="2hM3yRzKbPrXqv-h3VKx-236" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="78" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-241" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="プロジェクトをリードできる" vertex="1">
+          <mxGeometry height="60" width="120" x="722" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-248" parent="1" style="whiteSpace=wrap;html=1;" value="Giveすることから関係性を作る" vertex="1">
+          <mxGeometry height="60" width="120" x="1109" y="-69" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-250" parent="1" style="whiteSpace=wrap;html=1;" value="冗談を言い合える間柄" vertex="1">
+          <mxGeometry height="60" width="120" x="1204" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-252" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="人としてどうありたいか" vertex="1">
+          <mxGeometry height="60" width="120" x="84" y="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
