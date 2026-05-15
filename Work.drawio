@@ -205,7 +205,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ExWYhVR-ubTO9MCSDwoZ" name="FW PJM skills">
-    <mxGraphModel dx="1217" dy="2031" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1217" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -379,14 +379,26 @@
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-308" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-295" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="2hM3yRzKbPrXqv-h3VKx-307" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="996.8235294117649" y="-607.3529411764705" as="targetPoint" />
+            <mxPoint x="1001.8235294117649" y="-755.3529411764705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-295" parent="1" style="whiteSpace=wrap;html=1;" value="ツールを知っている" vertex="1">
-          <mxGeometry height="60" width="120" x="929" y="-736" as="geometry" />
+          <mxGeometry height="60" width="120" x="934" y="-884" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-319" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-297" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-318" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-320" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-297" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-318" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-321" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-297" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-318" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-324" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-297" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-323" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-297" parent="1" style="whiteSpace=wrap;html=1;" value="目的を理解している" vertex="1">
-          <mxGeometry height="60" width="120" x="1152" y="-827" as="geometry" />
+          <mxGeometry height="60" width="120" x="1157" y="-1120" as="geometry" />
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-302" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-299" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-301" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -398,16 +410,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-299" parent="1" style="whiteSpace=wrap;html=1;" value="勘所をわかっている" vertex="1">
-          <mxGeometry height="60" width="120" x="1152" y="-718" as="geometry" />
+          <mxGeometry height="60" width="120" x="1157" y="-866" as="geometry" />
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-301" parent="1" style="whiteSpace=wrap;html=1;" value="難しさ、制約" vertex="1">
-          <mxGeometry height="60" width="120" x="1344" y="-786" as="geometry" />
+          <mxGeometry height="60" width="120" x="1349" y="-934" as="geometry" />
         </mxCell>
         <mxCell id="2hM3yRzKbPrXqv-h3VKx-304" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="優位性" vertex="1">
-          <mxGeometry height="60" width="120" x="1344" y="-681" as="geometry" />
+          <mxGeometry height="60" width="120" x="1349" y="-829" as="geometry" />
         </mxCell>
-        <mxCell id="2hM3yRzKbPrXqv-h3VKx-307" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="利用するためのコストがわかっている" vertex="1">
-          <mxGeometry height="60" width="120" x="1147" y="-631" as="geometry" />
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-312" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-307" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-311" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-313" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-307" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-311" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-307" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="利用コストがわかっている" vertex="1">
+          <mxGeometry height="60" width="120" x="1157" y="-700" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-311" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="金" vertex="1">
+          <mxGeometry height="60" width="120" x="1349" y="-730" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-314" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="人（運用）" vertex="1">
+          <mxGeometry height="60" width="120" x="1349" y="-640" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-316" edge="1" parent="1" source="2hM3yRzKbPrXqv-h3VKx-307" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="2hM3yRzKbPrXqv-h3VKx-314" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-318" parent="1" style="whiteSpace=wrap;html=1;" value="プロダクト思想" vertex="1">
+          <mxGeometry height="60" width="120" x="1360" y="-1180" as="geometry" />
+        </mxCell>
+        <mxCell id="2hM3yRzKbPrXqv-h3VKx-323" parent="1" style="whiteSpace=wrap;html=1;" value="解こうとしている課題" vertex="1">
+          <mxGeometry height="60" width="120" x="1360" y="-1080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
